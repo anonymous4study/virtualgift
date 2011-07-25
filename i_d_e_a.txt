@@ -22,3 +22,28 @@ RUSSIAN LANGUAGE.
 
 Сайт virtualgift.me разрабатывается на технологиях, языках:
 php,javascript,mysql,c++,lighttpd,debian and/or ubuntu,api,xml,oop,hmvc and/or mvc.
+
+ENGLISH LANGUAGE, translated from Russian language by http://translate.google.com
+
+Site created by selling electronic gifts. 
+
+Gifts: 
+- Graphics cards (images jpg, gif, png). 
+- Graphics cards (images jpg, gif, png) with sound accompaniment (mp3, midi, wav and other music formats). 
+- Video reel files (flash, avi, mpeg4 and other videofrmaty). 
+
+The site has the support of the affiliate program: 
+- Anyone citizen (resident or nonresident USA), which has registered the domain (of the form example.com, example.co.uk, etc.) 
+can get a virtual showcase for your domain, a showcase will be loaded from a domain to a domain virtualgift.me it wants, 
+with: 
+    a) the prescription of ip-addresses, leading to a domain on the citizen's domain virtualgift.me 
+    b) at any site you connect the technology and php api to the domain virtualgift.me 
+    c) other options. 
+
+Income from sold gift is split between three partners: 
+   a) virtualgift.me, which in turn pays the taxes, if necessary under the laws of the country in which the server is located. 
+   b) the site of a citizen connected to an affiliate program virtualgift.me 
+   c) payment systems for services to accept payments: payment by sms, pay by credit cards, other methods of electronic payments. 
+
+Site virtualgift.me developed a technology, languages 
+php, javascript, mysql, c + +, lighttpd, debian and / or ubuntu, api, xml, oop, hmvc and / or mvc.
